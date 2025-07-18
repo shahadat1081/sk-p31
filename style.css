@@ -94,7 +94,7 @@ footer{
     font-weight: bold;
     background-color: rgb(212, 27, 42);
     display: inline-block;
-    padding: 1rem 1.3rem;
+    padding: 2rem 1.5rem;
     border-radius: 8px;
     border: none;
     outline: none;
@@ -115,7 +115,7 @@ footer{
     text-decoration: none;
     color: white;
     padding: 0 0.5rem;
-    font-size: 24px;
+    font-size: 35px;
 }
 @media(max-width: 480px){
     .imm{
